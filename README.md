@@ -53,8 +53,8 @@ bof_1.php 메인 페이지와 소스코드를 살펴보면 메인 페이지에�
 먼저 해당 문제를 풀기 위해서는 컴파일, 디버깅을 통한 메모리 분석, 쉘코드 작성을 통한 공격코드 삽입이 이루어져야 하며 여기서는 BOF(Buffer Overflow)가 무엇이고 어떻게 공격이 이루어지는지 참고에 있는 OWSAP 문서를 통하여 확인해 보시기 바랍니다.
  
 해당 BOF에 관한 문제는 추후 어떻게 컴파일이 이루어 지고 디버깅을 어떻게 하는지 유닉스, 윈도를 나눠서 다룰 예정이며 쉘 코드 작성 방법과 어떤 툴들을 사용하는지 다룰 예정입니다.
-       
-참고     
+              
+## 참고     
 https://owasp.org/www-community/attacks/Buffer_overflow_attack     
 https://owasp.org/www-project-web-security-testing-guide/v41/4-Web_Application_Security_Testing/07-Input_Validation_Testing/13.2-Testing_for_Stack_Overflow     
 https://owasp.org/www-community/vulnerabilities/Buffer_Overflow     
